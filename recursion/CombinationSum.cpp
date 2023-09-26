@@ -48,7 +48,5 @@ void find(int ind,int target,vector<int>&arr,vector<vector<int>>&ans,vector<int>
         vector<int>ds;
         find(0,target,cand,ans,ds);
         return ans;
-
-
     }
 };
