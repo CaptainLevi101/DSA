@@ -21,6 +21,7 @@
 // Constraints:
 
 // 1 <= n <= 9
+#include <bits/stdc++.h>
 class Solution {
 private:
  unordered_set<int>cols; //for columns
